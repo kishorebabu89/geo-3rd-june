@@ -1,1 +1,2 @@
-# geo-3rd-june
+# Geologist
+Geologist Project
